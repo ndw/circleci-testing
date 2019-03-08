@@ -1,0 +1,5 @@
+task helloWorld {
+  doFirst {
+    println("Hello, world.")
+  }
+}
